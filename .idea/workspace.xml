@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be65f78-3dae-4777-aa02-4d203eb318f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Convolutional Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Convolutional Autoencoder.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/brain" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rites\Desktop\test\autoencoder\brain" />
+      <recent name="C:\Users\rites\Desktop\test\autoencoder\data" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -35,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569068889821</updated>
       <workItem from="1569068898941" duration="683000" />
+      <workItem from="1569531129479" duration="909000" />
     </task>
     <servers />
   </component>
